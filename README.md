@@ -46,7 +46,8 @@ analise-de-vendas-sql/
 │   ├── 06_subqueries.sql
 │   ├── 07_tratamento_de_dados.sql
 │   ├── 08_metricas_de_vendas.sql
-│   └── 09_analise_de_negocio.sql
+|   ├── 09_kpis.sql
+│   └── 10_analise_de_negocio.sql
 │
 └── README.md
 
