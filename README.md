@@ -29,6 +29,20 @@ As análises realizadas buscam responder perguntas como:
 - PostgreSQL
 
 ---
+# Conceitos SQL Aplicados
+
+- SELECT
+- WHERE
+- GROUP BY
+- HAVING
+- JOINs
+- Subqueries
+- CTEs
+- funções de agregação
+- tratamento de dados
+- lógica analítica
+
+---
 
 # Estrutura do Projeto
 
