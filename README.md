@@ -38,9 +38,8 @@ As análises realizadas buscam responder perguntas como:
 - JOINs
 - Subqueries
 - CTEs
-- funções de agregação
-- tratamento de dados
-- lógica analítica
+- Funções de Agregação
+- Tratamento de Dados
 
 ---
 
